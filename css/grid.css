@@ -1,0 +1,10 @@
+
+/* Estilização da página para centralizar e configurar 
+espaçamentos laterais do site */
+
+.container {
+  width: 100%;
+  max-width: 1246px; /*colocar mais 15px para compensar os 15px do padding */
+  padding: 0 15px;
+  margin: 0 auto;
+}
